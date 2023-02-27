@@ -86,11 +86,13 @@
 
 .btn{
     margin-bottom: 5px;
+
 }
 
 .Icon{
     padding-right: 5px;
 }
+
 
 @media only screen and (max-width: 600px){
     .navLinks{
